@@ -8,6 +8,14 @@ Product Portfolio:
 - The KP481 is for mid-level runners that sell for $1,750.
 - The KP781 treadmill is having advanced features that sell for $2,500.
 
+## bizCase Highlights:
+- We have performed descriptive statistics on the dataset.
+    - Studied the distribution of various (numerical) features and commented on the central tendencies of the same.
+    - Identified the outliers and have performed outlier treatment.
+    - Converted a few numerical features into categorical features to create groups which help us to understand the customer profile in depth.
+- We have used conditional probability to understand the customer profile (gender, marital-status, age, income, fitness etc) across the different treadmill products.
+- Using EDA, we have summarized the important business insights and have also come up with some business recommendations which are backed by data.
+
 ## Customer Profiling:
 **For KP281:**
 - Both men and women are eqaully likely to buy this.
